@@ -1,0 +1,15 @@
+# 個人用ファイル（リポジトリに含めない）
+CLAUDE.md
+メモ.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
